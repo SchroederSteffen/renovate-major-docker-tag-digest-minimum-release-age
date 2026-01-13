@@ -1,1 +1,1 @@
-FROM timbru31/node-chrome:22
+FROM timbru31/node-chrome:22@sha256:6f48e099d83c6419131fb9e31d21398b22740f2677ab39e175a03b0ebcf34625
