@@ -1,9 +1,9 @@
 {
   "private": true,
   "engines": {
-    "node": "22"
+    "node": "24"
   },
   "devDependencies": {
-    "@types/node": "22.19.5"
+    "@types/node": "24.10.7"
   }
 }
