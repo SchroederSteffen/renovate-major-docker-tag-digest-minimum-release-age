@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:best-practices"],
+  "minimumReleaseAge": "3 days",
+  "packageRules": [
+    {
+      "groupName": "Node.js",
+      "matchPackageNames": ["@types/node", "timbru31/node-chrome"],
+      "matchUpdateTypes": ["major"]
+    }
+  ]
+}
