@@ -5,7 +5,7 @@
   "packageRules": [
     {
       "groupName": "Node.js",
-      "matchPackageNames": ["@types/node", "timbru31/node-chrome"],
+      "matchPackageNames": ["node", "@types/node", "timbru31/node-chrome"],
       "matchUpdateTypes": ["major"]
     }
   ]
